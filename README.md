@@ -52,7 +52,7 @@ yazarak  " **Tamam** " butonuna basınız.
 - **cd** komutundan sonra direk bir dizin yolu (directory path) da girilebilir.
   
 
-<img src="![alt text](<Ekran görüntüsü 2024-11-16 195336.png>)"
+<img src="cd komut.png">
 
 **3.md** :
 ---
